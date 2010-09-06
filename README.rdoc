@@ -1,2 +1,4 @@
 
 see link:reference/README.rdoc
+
+see {foo}[reference/README.rdoc]
